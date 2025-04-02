@@ -143,11 +143,3 @@ def fin():
         return False  # continuer à jouer
 
 Puissance_4()
-
-"""Le programme est fonctionnel et le jeu est jouable. Ce que nous voyons à
-améliorer a ce niveau là ce sont en premier lieu la vérification des cases que
-nous faisons actuellement en 8 étapes par case que nous pouvons optimiser en
-seulement 3 étapes par case et en second lieu le tableau qui est affiché
-"a l'envers" car les jetons se posent en haut. Nous allons donc faire en sorte
-de le retourner.
-"""
