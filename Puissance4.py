@@ -1,4 +1,3 @@
-﻿#créé par Antoine Ponthieu et Rayan Hubert.
 B = [[0,0,0,0,0,0,0],
      [0,0,0,0,0,0,0],
      [0,0,0,0,0,0,0],
